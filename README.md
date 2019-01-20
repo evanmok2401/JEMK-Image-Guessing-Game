@@ -1,6 +1,6 @@
 ## JEMK - Prefix Guessing Game
 
-![JEMK Game](/assets/images/JEMK.png)
+![JEMK Game](/assets/images/JEMK.JPG)
 
 JEMK is a simple and addictive brain teasing prefix guessing game. 2 pictures with the same 3 letter prefix will be shown on the screen and the user would have to guess it. Getting the correct answer would increase your score while giving up deducts it.
 
